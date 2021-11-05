@@ -15,9 +15,9 @@ Looking for the logfile.txt file? Navigate to the "INFR 3110 - A3_Data" folder a
 
 SCREENSHOTS:
 
-https://i.imgur.com/Gqgnl8y.png
+![image](https://user-images.githubusercontent.com/71410685/140452922-ccecd334-e526-4725-8482-ae73fe364510.png)
 
-https://user-images.githubusercontent.com/71410685/138749339-2016e82f-3a16-48e3-82ad-dd97b10fa139.png
+![image](https://user-images.githubusercontent.com/71410685/140452902-b5f23288-10eb-46c3-9b29-bb506f94f2dc.png)
 
 Link to Video Presentation:
 
